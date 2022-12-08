@@ -1,0 +1,21 @@
+# Library dependencies for the `termcursor` project
+# You have to install these libraries, before you can run the code:
+# 'pip install -r requirements.txt'
+
+# Standard library dependencies on all platforms:
+# enum.Enum
+# Exception
+# os.name
+
+# Additional standard library dependencies on Unix platforms only:
+# curses.curs_set
+
+# Additional standard library dependencies on Windows platforms only:
+# ctypes.byref
+# ctypes.c_int
+# ctypes.c_byte
+# ctypes.Structure
+# ctypes.windll
+
+
+python>=3.10
