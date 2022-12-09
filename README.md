@@ -1,5 +1,11 @@
 [![Generic badge](https://img.shields.io/badge/Version-1.0.0-blue)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Python-%3E%3D3.10-blue)](https://shields.io/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/termcursor)
+![GitHub](https://img.shields.io/github/license/richardvecsey/termcursor)
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/richardvecsey/termcursor/main)
+![PyPI - Status](https://img.shields.io/pypi/status/termcursor)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/termcursor)
+[![Downloads](https://pepy.tech/badge/termcursor)](https://pepy.tech/project/termcursor)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/termcursor)
 
 # termcursor
 
